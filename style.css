@@ -1,30 +1,59 @@
 h1 {
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100 bold;
     font-size: 4em;
     text-align: center;
     letter-spacing: 10px;
-    color: #E0B0D5;
+    color: #b9375e;
     
-    #7BE0AD;
+    #https://coolors.co/ffe0e9-ffc2d4-ff9ebb-ff7aa2-e05780-b9375e-8a2846-602437-522e38
 
 }
 
-#foto { text-align:center;
+#fotografia { 
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    background-color: #b9375e;
 
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #AEE5D8;
+    background-color: #ff9ebb;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
 }
 
 .títulos {
     font-weight: bold;
     text-decoration: underline;
+    color: #b9375e;
 }
 
-h2 {
-    color: #E0B0D5;
+#descricao {
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    border: 20px solid #b9375e;
+    font-size: larger;
+    font-weight: bold;
+    
+}
 
+p {
+    padding: 10px;
+}
+
+#indice {
+    position: absolute;
+    right: 650px;
+    font-size: x-large;
+    top: 600px;
+    border-style: dashed;
 }
